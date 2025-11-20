@@ -1,0 +1,24 @@
+.history-page {
+  max-width: 800px;
+  margin: 0 auto;
+  line-height: 1.6;
+}
+
+.history-page h2 {
+  color: #333;
+  margin-bottom: 20px;
+}
+
+.history-page p {
+  font-size: 1.1em;
+  color: #555;
+}
+
+.history-page section h3 {
+  color: #222;
+  margin-top: 25px;
+}
+
+.history-page section p {
+  color: #444;
+}
